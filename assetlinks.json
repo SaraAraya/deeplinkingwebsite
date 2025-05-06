@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.poetrycollection",
-    "sha256_cert_fingerprints":
-    ["E4:91:91:E5:44:0A:13:5C:25:36:8F:06:88:73:F0:08:BE:18:22:C5:97:05:91:6F:FC:0B:E1:28:DC:60:0D:18"]
-  }
-}]
